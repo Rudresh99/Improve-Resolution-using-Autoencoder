@@ -1,6 +1,8 @@
 # Improve-Resolution-using-Autoencoder
 In this project, you’re going to learn what an autoencoder is, use Keras with Tensorflow as its backend to train your own autoencoder, and use this deep learning powered autoencoder to significantly enhance the quality of images. That is, our neural network will create high-resolution images from low-res source images.
 
+![](https://www.fotojet.com/images/theme/photo-editor/photo-enhance/photo-enhance-01.jpg)
+
 # Objective :-
 The Objective of this project is :
 
@@ -25,3 +27,5 @@ The hands on project on Image Super Resolution Using Autoencoders in Keras is di
 6: Load the Dataset and Pre-trained Model
 
 7: Model Predictions and Visualizing the Results
+
+![t1](https://user-images.githubusercontent.com/52448964/84981197-9811eb80-b151-11ea-8a7a-f7ab5b8f69cd.png)
